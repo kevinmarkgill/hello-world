@@ -12,3 +12,6 @@ This is the 2nd change carried ou on the corporate remote pc but this time on th
 This is the 1st change carried out on the github created branch to test the normal clone set-up variation.
 
 This is the 2nd change carried ou on the github created branch to test the normal clone set-up variation.
+
+This is the 1st change done on the dev machine for the github created branch in order to test the cloned set-up variation
+
