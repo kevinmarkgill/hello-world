@@ -9,4 +9,6 @@ This change is the 1st change carried out on the remote pc.
 
 This is the 2nd change carried ou on the corporate remote pc but this time on the local corporate branch.
 
-This is the 1st change carried out on the github created branch to test the normal clone set-up variation. 
+This is the 1st change carried out on the github created branch to test the normal clone set-up variation.
+
+This is the 2nd change carried ou on the github created branch to test the normal clone set-up variation.
