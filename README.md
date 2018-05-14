@@ -5,4 +5,6 @@ This text was added on the Edit-readme-file branch.
 
 This is the 2nd piece of text added on the Edit-readme-file branch
 
-This change is the 1st change carried out on the remote pc. 
+This change is the 1st change carried out on the remote pc.
+
+This is the 2nd change carried ou on the corporate remote pc but this time on the local corporate branch. 
